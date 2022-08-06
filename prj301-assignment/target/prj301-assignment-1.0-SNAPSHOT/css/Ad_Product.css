@@ -1,0 +1,154 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 502px;
+}
+
+.u-section-1 .u-product-1 {
+  min-height: 502px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 540px;
+  height: 360px;
+  margin: 51px auto 0 33px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: -103px auto 0 218px;
+  padding: 8px 33px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -267px 63px 0 595px;
+}
+
+.u-section-1 .u-product-price-1 {
+  margin: 29px auto 0 595px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px 33px 0 595px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 30px auto 0 595px;
+  padding: 10px 43px 10px 42px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-product-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 25px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 9px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 9px;
+    margin-left: 449px;
+  }
+
+  .u-section-1 .u-product-price-1 {
+    margin-left: 449px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 9px;
+    margin-left: 449px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 386px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 33px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 238px;
+  }
+
+  .u-section-1 .u-product-price-1 {
+    margin-left: 238px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 238px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 175px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 58px;
+  }
+
+  .u-section-1 .u-product-price-1 {
+    margin-left: 58px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 58px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 227px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-product-price-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+}
